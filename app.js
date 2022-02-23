@@ -2,7 +2,7 @@
 
 //const currentYear = new Date().getFullYear();
 
-const newCountdown = new Date(`April 21 2022 19:00:00`);
+const newCountdown = new Date(`April 21 2022 18:00:00`);
 
 function updateCountdowntime(){
     const currentTime = new Date();
